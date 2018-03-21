@@ -1,0 +1,71 @@
+.container {
+    background-color: lightblue;
+}
+#gameTitle {
+    text-align: center;
+    padding: 20px;
+    background-color:yellowgreen;
+    color: white;
+    margin-top: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-size: 32px;
+    font-weight: bolder;
+
+}
+
+.instructionsWrapper {
+    float: center;
+    padding: 20px;
+    background-color: lightgoldenrodyellow;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+
+}
+
+.instructions {
+    color: green;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+
+
+#game {
+    padding: 20px;
+    background-color: lightgreen;
+    display: block;
+    display: inline-block;
+    
+    
+}
+
+ .crystal-image {
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  #crystals {
+      align-content: center;
+      margin-top: 30px;
+      margin-left: 132px;
+      padding-bottom: 200px;
+
+  }
+
+#number-to-guess {
+    font-size: 32px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px;
+    background-color: lightgreen;
+    display: block;
+    display: inline-block;
+
+}
